@@ -5,14 +5,16 @@ TagManager:
   serializedVersion: 3
   tags:
   - Chao
+  - Personagem
+  - Cogumelo
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Personagem
+  - Player
   - Water
   - UI
-  - 
+  - chao
   - 
   - 
   - 
