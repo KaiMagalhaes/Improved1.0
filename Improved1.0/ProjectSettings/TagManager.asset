@@ -8,6 +8,7 @@ TagManager:
   - Personagem
   - Cogumelo
   - Buraco
+  - Inimigo
   layers:
   - Default
   - TransparentFX
