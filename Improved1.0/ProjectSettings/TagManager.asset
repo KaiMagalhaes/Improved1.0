@@ -7,6 +7,7 @@ TagManager:
   - Chao
   - Personagem
   - Cogumelo
+  - Buraco
   layers:
   - Default
   - TransparentFX
